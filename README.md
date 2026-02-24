@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > The 100-million-row challenge is now **live**. You have until March 15, 11:59PM to submit your entry!
     
-Welcome to the 100-million-row challenge in PHP! Your goal is to parse a data set of page visits into a JSON file. This repository contains all you need to get started locally. Submitting an entry is as easy as sending a pull request to this repository. This competition will run for two weeks: from X to Y. When it's done, the top three fastest solutions will win a prize! 
+Welcome to the 100-million-row challenge in PHP! Your goal is to parse a data set of page visits into a JSON file. This repository contains all you need to get started locally. Submitting an entry is as easy as sending a pull request to this repository. This competition will run for two weeks: from Feb 24 to March 15, 2026. When it's done, the top three fastest solutions will win a prize! 
 
 ## Getting started
 
